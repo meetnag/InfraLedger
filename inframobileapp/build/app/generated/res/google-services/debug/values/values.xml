@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">403866598627-7t4taaua30trlmb62aemrq6dm31hhqvh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">403866598627</string>
+    <string name="google_api_key" translatable="false">AIzaSyBBg-MnfAbi1BG7y7pzsMnoTg60jg8uCvE</string>
+    <string name="google_app_id" translatable="false">1:403866598627:android:d2ed02d4df53ebc3b6d9d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBBg-MnfAbi1BG7y7pzsMnoTg60jg8uCvE</string>
+    <string name="google_storage_bucket" translatable="false">inframobileapp-cd624.appspot.com</string>
+    <string name="project_id" translatable="false">inframobileapp-cd624</string>
+</resources>

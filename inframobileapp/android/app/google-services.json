@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403866598627",
+    "project_id": "inframobileapp-cd624",
+    "storage_bucket": "inframobileapp-cd624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403866598627:android:d2ed02d4df53ebc3b6d9d6",
+        "android_client_info": {
+          "package_name": "com.radiant.inframobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403866598627-t2qqe4fdcc1t781tiot3rkupigcglpih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radiant.inframobileapp",
+            "certificate_hash": "fe9cb1fd376fdad2c524bfaf4081481b30bcffd6"
+          }
+        },
+        {
+          "client_id": "403866598627-7t4taaua30trlmb62aemrq6dm31hhqvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBg-MnfAbi1BG7y7pzsMnoTg60jg8uCvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403866598627-7t4taaua30trlmb62aemrq6dm31hhqvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

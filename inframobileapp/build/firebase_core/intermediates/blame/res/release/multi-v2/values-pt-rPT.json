@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/firebase_core/intermediates/res/merged/release/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "309",
+                        "endColumns": "100",
+                        "endOffsets": "405"
+                    }
+                },
+                {
+                    "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/79e7ee76e7e2d9bcb6500df32a99694d/jetified-play-services-basement-17.0.0/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "309",
+                        "endColumns": "100",
+                        "endOffsets": "405"
+                    }
+                },
+                {
+                    "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/79e7ee76e7e2d9bcb6500df32a99694d/jetified-play-services-basement-17.0.0/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                }
+            ]
+        }
+    ]
+}

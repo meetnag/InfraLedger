@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/4b59d8b5c1bd90788c88094abeeb1723/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/open_file/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

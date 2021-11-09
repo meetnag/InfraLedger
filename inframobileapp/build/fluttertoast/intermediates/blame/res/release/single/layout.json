@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/toast_custom.xml",
+        "source": "/home/mranon/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/mranon/.gradle/caches/transforms-2/files-2.1/28e91832122b5dc7de235c04c0b3d0d2/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    }
+]

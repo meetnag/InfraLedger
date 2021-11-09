@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/444002923/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/444002923/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-286708501/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-286708501/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1707958048/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1707958048/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-353527517/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-353527517/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1545159927/android.hexcolor.iml" filepath="$PROJECT_DIR$/.idea/modules/1545159927/android.hexcolor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/136691484/android.open_file.iml" filepath="$PROJECT_DIR$/.idea/modules/136691484/android.open_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-629539820/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-629539820/android.path_provider.iml" />
+    </modules>
+  </component>
+</project>

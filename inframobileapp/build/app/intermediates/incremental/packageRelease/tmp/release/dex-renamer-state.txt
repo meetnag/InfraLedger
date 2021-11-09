@@ -1,0 +1,4 @@
+#Thu Aug 19 23:21:54 IST 2021
+base.0=/home/mranon/Documents/project/Interns/inframobileapp/inframobileapp/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
